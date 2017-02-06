@@ -1,6 +1,6 @@
 # vue-es6-webpack-starter
 Really barebones setup for Vue front end (with ES6, and less) with webpack
 
-npm install -g webpack
-npm install
-npm run build-dev
+1. npm install -g webpack
+2. npm install
+3. npm run build-dev
